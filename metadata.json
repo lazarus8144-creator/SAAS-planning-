@@ -1,0 +1,6 @@
+{
+  "name": "AGP QC Laboratory Daily Planning System",
+  "description": "Pharmaceutical Quality Control (QC) Laboratory Daily Planning System for AGP Limited, supporting Validation, Finish, RM, and Stability sections with SOP compliance, Excel export, and print formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
